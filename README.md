@@ -1,3 +1,4 @@
+# IDidWhat
 ⏱️ **IDidWhat** is a command-line Python tool that helps you see what you did on GitHub, day by day.
 
 If you need to track your time, write reports, or just remind yourself what issues and pull requests you touched — IDidWhat has your back.
